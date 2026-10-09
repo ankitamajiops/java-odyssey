@@ -1,10 +1,10 @@
 # 01 — Getting Started
 
-Welcome to the beginning of my Java Odyssey! ☕
+Welcome to the beginning of my Java Odyssey! 
 
 This section introduces Java from the very beginning and builds the foundation needed for everything that follows.
 
-## 📚 Topics Covered
+## Topics Covered
 
 1. [What is Java?](01-What-Is-Java.md)
 2. [Features of Java](02-Features-of-Java.md)
@@ -16,7 +16,7 @@ This section introduces Java from the very beginning and builds the foundation n
 8. [The main() Method](08-main-Method.md)
 9. [Comments](09-Comments.md)
 
-## 💻 Practice Programs
+## Practice Programs
 
 - Hello World
 - Print a Message
