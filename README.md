@@ -1,4 +1,4 @@
-## 🧭 About
+## About
 
 Java Odyssey is my hands-on journey of learning Java from the ground up.
 
@@ -6,7 +6,7 @@ This repository documents everything I learn along the way — from basic syntax
 
 The goal is to keep everything organized in one place so that my progress is easy to track and the repository can also help other learners who are starting their Java journey.
 
-## 🗺️ Learning Path
+## Learning Path
 
 - [ ] Getting Started
 - [ ] Variables & Data Types
@@ -28,11 +28,11 @@ The goal is to keep everything organized in one place so that my progress is eas
 - [ ] Advanced DSA
 - [ ] Projects
 
-## 🎯 Goal
+## Goal
 
 To build a strong understanding of Java through consistent learning, hands-on coding, problem solving, and practical projects.
 
-## 📂 Repository Structure
+## Repository Structure
 
 Each topic will contain:
 
@@ -40,6 +40,6 @@ Each topic will contain:
 
 The repository will grow continuously as I learn.
 
-## 🚀 Progress
+## Progress
 
 This is a living repository — continuously updated throughout my learning journey.
