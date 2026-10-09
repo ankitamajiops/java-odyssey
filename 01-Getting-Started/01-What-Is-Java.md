@@ -22,13 +22,13 @@ That's the idea behind its famous slogan:
 
 Here are some of the features that make Java worth learning:
 
-* **🌍 Platform Independent** — Java source code is compiled into bytecode that can run on compatible JVMs across different operating systems.
-* **🧩 Object-Oriented** — Classes and objects help organize code into reusable, maintainable components.
-* **🛡️ Strongly Typed** — Java checks types to catch many mistakes before a program runs.
-* **🧹 Automatic Memory Management** — Garbage collection helps reclaim memory occupied by objects that are no longer needed.
-* **⚙️ Multithreading** — Java provides tools for running multiple tasks concurrently.
-* **📚 Rich Ecosystem** — Libraries, frameworks, and developer tools support everything from small programs to large applications.
-* **🔧 Robust and Mature** — Java offers exception handling, type checking, and a mature runtime environment for building dependable software.
+* **Platform Independent** — Java source code is compiled into bytecode that can run on compatible JVMs across different operating systems.
+* **Object-Oriented** — Classes and objects help organize code into reusable, maintainable components.
+* **Strongly Typed** — Java checks types to catch many mistakes before a program runs.
+* **Automatic Memory Management** — Garbage collection helps reclaim memory occupied by objects that are no longer needed.
+* **Multithreading** — Java provides tools for running multiple tasks concurrently.
+* **Rich Ecosystem** — Libraries, frameworks, and developer tools support everything from small programs to large applications.
+* **Robust and Mature** — Java offers exception handling, type checking, and a mature runtime environment for building dependable software.
 
 ## 3. Where Is Java Used?
 
@@ -36,12 +36,12 @@ Java isn't limited to classroom exercises. It is used to build real software.
 
 | Domain                  | Example Uses                                       |
 | ----------------------- | -------------------------------------------------- |
-| 🌐 Backend Development  | APIs and server-side applications                  |
-| 🏢 Enterprise Software  | Business and banking systems                       |
-| 📱 Android Development  | Android applications and libraries                 |
-| 💳 Financial Technology | Transaction processing systems                     |
-| ☁️ Cloud Applications   | Scalable services and distributed applications     |
-| 🧠 Problem Solving      | Data structures, algorithms, and coding interviews |
+| Backend Development  | APIs and server-side applications                  |
+| Enterprise Software  | Business and banking systems                       |
+| Android Development  | Android applications and libraries                 |
+| Financial Technology | Transaction processing systems                     |
+| Cloud Applications   | Scalable services and distributed applications     |
+| Problem Solving      | Data structures, algorithms, and coding interviews |
 
 ## 4. How Does Java Work?
 
@@ -96,4 +96,4 @@ Hello, World!
 
 ---
 
-*Part of Java Odyssey ☕ | Learn. Code. Understand. Repeat.*
+*Part of Java Odyssey  | Learn. Code. Understand. Repeat.*
