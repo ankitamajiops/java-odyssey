@@ -220,4 +220,4 @@ Remember the distinction:
 
 ---
 
-*Part of Java Odyssey ☕ — Learn. Code. Understand. Repeat.*
+*Part of Java Odyssey  — Learn. Code. Understand. Repeat.*
